@@ -63,6 +63,5 @@
 ||log-ingestion.samsungacr.com^
 ||mrgadgetpro.com^
 ||example.org^
-||lastampa.it repubblica.it * block
-||lastampa.it^$script,third-party,domain=repubblica.it
+||lastampa.it^$third-party,domain=repubblica.it
 ||000webhost.com^$important
