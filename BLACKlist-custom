@@ -21,7 +21,7 @@
 ||*.wine^
 
 #Host blocking
-
+||*.trkpromodelgiorno.eu^
 ||privatestats.whatsapp.net^
 ||tetawen.mein-vigor.de^
 ||3ay7al.info^
