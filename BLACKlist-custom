@@ -20,8 +20,13 @@
 ||*.rest^
 ||*.live^
 ||*.wine^
+||*.club^
 
-#Host blocking
+#Host blocking domain - adblock syn
+||dipendentestatale.com^
+||korturl.dk^
+||meetsap.com^
+||saceakee.club
 ||24sevenbd.com^
 ||voxnews.info^$important
 ||trkpromodelgiorno.eu^
@@ -66,3 +71,7 @@
 ||example.org^
 ||lastampa.it^$third-party,domain=repubblica.it
 ||000webhost.com^$important
+
+#Host blocking domain - adblock syn with wildcard
+||*.polmet.net^
+||*.bachecacar.it^
