@@ -139,7 +139,6 @@ eulerian.net^
 ||tracking.intl.miui.com^
 ||tracking.india.miui.com^
 ||tracking.rus.miui.com^
-
 #Windows
 # Connected User Experiences and Telemetry
 vortex-win.data.microsoft.com
@@ -168,20 +167,16 @@ spynetalt.microsoft.com
 #Office Telemetry
 onecollector.cloudapp.aria.akadns.net
 prod.nexusrules.live.com.akadns.net
-
 #Sonos
 msmetrics.ws.sonos.com
 msmetrics-test.ws.sonos.com
-
 #Samsung 
 nmetrics.samsung.com
 insights.samsung.com
 analytics.samsungknox.com
 bigdata.ssp.samsung.com
-
 #Roku
 logs.roku.com
-
 #Huawei
 metrics.data.hicloud.com
 metrics1.data.hicloud.com
@@ -191,7 +186,6 @@ metrics4.data.hicloud.com
 metrics5.data.hicloud.com
 logservice.hicloud.com
 logservice1.hicloud.com
-
 #Apple
 metrics.apple.com
 securemetrics.apple.com
@@ -201,7 +195,6 @@ metrics.mzstatic.com
 dzc-metrics.mzstatic.com
 books-analytics-events.news.apple-dns.net
 books-analytics-events.apple.com
-
 #Amazon Alexa
 data.alexa.com
 device-metrics-us.amazon.com
