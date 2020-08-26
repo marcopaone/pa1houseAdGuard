@@ -77,8 +77,8 @@
 #-----------------------------
 
 #Host blocking domain - adblock syn with wildcard
-||*.polmet.net^
-||*.bachecacar.it^
+||polmet.net^
+||bachecacar.it^
 
 #-----------------------------
 
