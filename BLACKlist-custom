@@ -73,12 +73,13 @@
 ||example.org^
 ||lastampa.it^$third-party,domain=repubblica.it
 ||000webhost.com^$important
+||polmet.net^
+||bachecacar.it^
 
 #-----------------------------
 
 #Host blocking domain - adblock syn with wildcard
-||polmet.net^
-||bachecacar.it^
+
 
 #-----------------------------
 
