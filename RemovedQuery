@@ -1,6 +1,8 @@
 *.samsungcloudsolution.net^
 samsungcloudsolution.net^
 samsungcloudsolution.com
+samsungcloudcdn.com^
+||samsungcloudcdn.com^
 ||*.samsungcloudsolution.com^
 *.samsungiotcloud.com^
 *.samsungqbe.com^
