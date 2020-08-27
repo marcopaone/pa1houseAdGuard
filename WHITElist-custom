@@ -1,3 +1,20 @@
+#TOP level domain whitelist
+@@||*.gov
+
+#-----------------------------
+
+#Host whitelist domain - adblock syn
+@@||s.youtube.com
+@@||app.link
+@@||v10.events.data.microsoft.com
+@@||settings-win.data.microsoft.com
+@@||mobile.pipe.aria.microsoft.com
+@@||browser.pipe.aria.microsoft.com
+@@||lenta.ru
+@@||inc.com
+@@||smartsheet.com
+@@||get3.adobe.com
+@@||ae01.alicdn.com
 @@||bit.ly^$important
 @@||ow.ly^$important
 @@||tinyurl.com^$important
@@ -171,3 +188,4 @@
 @@||rta.xboxlive.com^$important
 @@||smetrics.aem.playstation.com
 @@||jpost.com^
+#-----------------------------
