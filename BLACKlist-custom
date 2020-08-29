@@ -24,6 +24,11 @@
 
 #-----------------------------
 
+#regex blocking
+/^[a-z]{7,15}$/
+
+#-----------------------------
+
 #Host blocking domain - adblock syn
 ||dipendentestatale.com^
 ||korturl.dk^
@@ -77,6 +82,12 @@
 
 #Host blocking domain - adblock syn with wildcard
 
+#-----------------------------
+
+#Host blocking domain
+31.13.86.4
+91.81.216.84
+157.240.193.18
 
 #-----------------------------
 
