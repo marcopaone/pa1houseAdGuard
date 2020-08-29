@@ -4,6 +4,7 @@
 #-----------------------------
 
 #Host whitelist domain - adblock syn
+@@||s2.reutersmedia.net
 @@||s.youtube.com
 @@||app.link
 @@||v10.events.data.microsoft.com
@@ -188,5 +189,4 @@
 @@||rta.xboxlive.com^$important
 @@||smetrics.aem.playstation.com
 @@||jpost.com^
-@@||www.reuters.com^
 #-----------------------------
