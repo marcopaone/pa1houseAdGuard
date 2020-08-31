@@ -4,6 +4,7 @@
 #-----------------------------
 
 #Host whitelist domain - adblock syn
+@@||babbano.com
 @@||s2.reutersmedia.net
 @@||s.youtube.com
 @@||app.link
