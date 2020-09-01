@@ -30,7 +30,6 @@
 #-----------------------------
 
 #Host blocking domain - adblock syn
-||clients3.google.com^
 ||linktr.ee^
 ||dipendentestatale.com^
 ||korturl.dk^
