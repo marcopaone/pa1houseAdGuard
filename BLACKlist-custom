@@ -30,6 +30,8 @@
 #-----------------------------
 
 #Host blocking domain - adblock syn
+||google.*/client_204?
+||cdn.ampproject.org/*/amp-analytics-
 ||proontoo.com^
 ||ebusvc.com^
 ||clients3.google.com/generate_204^
