@@ -1,0 +1,10 @@
+If the logs and statistics are not deleted after 24h and 30 days respectively, add these commands to the crontab.
+
+Open crontab confing using: crontab -e
+
+Paste following commands:
+
+30 3 * * * rm -rf /root/Desktop/AdGuardHome/data/querylog.json
+31 3 * * * cd "/root/Desktop/AdGuardHome" && ./AdGuardHome -s restart
+30 3 1 * * rm -rf /root/Desktop/AdGuardHome/data/stats.db
+31 3 1 * * cd "/root/Desktop/AdGuardHome" && ./AdGuardHome -s restart
