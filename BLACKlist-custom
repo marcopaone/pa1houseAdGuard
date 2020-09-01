@@ -30,6 +30,7 @@
 #-----------------------------
 
 #Host blocking domain - adblock syn
+||ebusvc.com^
 ||clients3.google.com/generate_204^
 ||linktr.ee^
 ||dipendentestatale.com^
