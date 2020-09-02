@@ -30,6 +30,8 @@
 #-----------------------------
 
 #Host blocking domain - adblock syn
+||mail.lifecoachx.com^
+||lifecoachx.com^
 ||google.*/client_204?
 ||cdn.ampproject.org/*/amp-analytics-
 ||proontoo.com^
