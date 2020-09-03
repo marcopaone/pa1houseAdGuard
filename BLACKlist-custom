@@ -1,4 +1,5 @@
 #TOP level domain blocking
+||*.gy^
 ||*.biz^
 ||*.top^
 ||*.fit^
