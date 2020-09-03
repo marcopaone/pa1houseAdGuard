@@ -194,26 +194,27 @@
 #-----------------------------
 
 #Xbox (also used by Microsoft Store games like Minecraft):
-attestation.xboxlive.com
-cert.mgt.xboxlive.com
-def-vef.xboxlive.com
-device.auth.xboxlive.com
-eds.xboxlive.com
-help.ui.xboxlive.com
-licensing.xboxlive.com
-notify.xboxlive.com
-title.auth.xboxlive.com
-title.mgt.xboxlive.com
-www.xboxlive.com
-xbox.ipv6.microsoft.com
-xboxexperiencesprod.experimentation.xboxlive.com
-xflight.xboxlive.com
-xkms.xbolive.com
-xsts.auth.xboxlive.com
+@@||attestation.xboxlive.com
+@@||cert.mgt.xboxlive.com
+@@||def-vef.xboxlive.com
+@@||device.auth.xboxlive.com
+@@||eds.xboxlive.com
+@@||help.ui.xboxlive.com
+@@||licensing.xboxlive.com
+@@||notify.xboxlive.com
+@@||title.auth.xboxlive.com
+@@||title.mgt.xboxlive.com
+@@||xboxlive.com
+@@||xbox.ipv6.microsoft.com
+@@||xboxexperiencesprod.experimentation.xboxlive.com
+@@||xflight.xboxlive.com
+@@||xkms.xbolive.com
+@@||xsts.auth.xboxlive.com
+@@||activity.windows.com
 
 #Windows Updates/Microsoft Store (app updates):
-ctldl.windowsupdate.com
-displaycatalog.mp.microsoft.com
-dl.delivery.mp.microsoft.com
-sls.update.microsoft.com
-g.live.com 
+@@||ctldl.windowsupdate.com
+@@||displaycatalog.mp.microsoft.com
+@@||dl.delivery.mp.microsoft.com
+@@||sls.update.microsoft.com
+@@||g.live.com 
