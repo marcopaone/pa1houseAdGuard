@@ -194,6 +194,7 @@
 #-----------------------------
 
 #Host blocking domain - adblock syn
+||awaitingconfirmation.com^
 ||mail.lifecoachx.com^
 ||lifecoachx.com^
 ||google.*/client_204?
