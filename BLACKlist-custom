@@ -194,6 +194,9 @@
 #-----------------------------
 
 #Host blocking domain - adblock syn
+||*/BannerAd.gif
+||*/advertising_ads
+||*/advertising
 ||awaitingconfirmation.com^
 ||mail.lifecoachx.com^
 ||lifecoachx.com^
