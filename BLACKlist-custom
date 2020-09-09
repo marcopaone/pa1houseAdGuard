@@ -190,13 +190,15 @@
 /^(track\.)
 /^(tracker\.)
 /^(tracking\.)
+(^|\.)BannerAd\.*$
+(^|\.)advertising_ads\.*$
 
 #-----------------------------
 
 #Host blocking domain - adblock syn
-||*/BannerAd.gif
-||*/advertising_ads
-||*/advertising
+||.*/BannerAd.gif
+||.*/advertising_ads
+||.*/advertising
 ||awaitingconfirmation.com^
 ||mail.lifecoachx.com^
 ||lifecoachx.com^
