@@ -4,6 +4,7 @@
 #-----------------------------
 
 #Host whitelist domain - adblock syn
+@@||huorong.cn^
 @@||google.*/complete/search?$script
 @@||babbano.com
 @@||s2.reutersmedia.net
