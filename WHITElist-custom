@@ -4,6 +4,8 @@
 #-----------------------------
 
 #Host whitelist domain - adblock syn
+@@||avcdn.net^$important
+@@|avast.com^$important
 @@||huorong.cn^$important
 @@||google.*/complete/search?$script
 @@||babbano.com
