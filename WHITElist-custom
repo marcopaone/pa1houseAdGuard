@@ -4,6 +4,7 @@
 #-----------------------------
 
 #Host whitelist domain - adblock syn
+@@||360totalsecurity.com^$important
 @@||360.com^$important
 @@||nano.com^$important
 @@||360safe.com^$important
