@@ -4,6 +4,7 @@
 #-----------------------------
 
 #Host whitelist domain - adblock syn
+@@||360safe.com^$important
 @@||avcdn.net^$important
 @@||avast.com^$important
 @@||huorong.cn^$important
