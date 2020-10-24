@@ -4,6 +4,9 @@
 #-----------------------------
 
 #Host whitelist domain - adblock syn
+@@||symantecliveupdate.com^$important
+@@||broadcom.com^$important
+@@||norton.com^$important
 @@||symantec.com^$important
 @@||360totalsecurity.com^$important
 @@||360.com^$important
