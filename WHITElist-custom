@@ -4,6 +4,7 @@
 #-----------------------------
 
 #Host whitelist domain - adblock syn
+@@||any.run^$important
 @@||symantecliveupdate.com^$important
 @@||broadcom.com^$important
 @@||norton.com^$important
