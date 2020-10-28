@@ -4,6 +4,7 @@
 #-----------------------------
 
 #Host whitelist domain - adblock syn
+@@||unity3d.com^$important
 @@||*.symantec.com^$important
 @@||any.run^$important
 @@||symantecliveupdate.com^$important
