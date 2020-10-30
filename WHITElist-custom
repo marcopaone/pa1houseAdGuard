@@ -4,6 +4,7 @@
 #-----------------------------
 
 #Host whitelist domain - adblock syn
+@@||intel.com^$important
 @@||mcafee.com^$important
 @@||unity3d.com^$important
 @@||*.symantec.com^$important
