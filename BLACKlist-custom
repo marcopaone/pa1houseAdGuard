@@ -197,6 +197,7 @@
 #-----------------------------
 
 #Host blocking domain - adblock syn
+||mediapack.info^
 ||watchanimeattheoffice.com^
 ||bigbeans.solution^
 ||.*/BannerAd.gif
