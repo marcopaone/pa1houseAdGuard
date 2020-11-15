@@ -4,6 +4,7 @@
 #-----------------------------
 
 #Host whitelist domain - adblock syn
+@@||fil.email^$important
 @@||u.gg^$important
 @@||wikia.com^$important
 @@||fandom.com^$important
