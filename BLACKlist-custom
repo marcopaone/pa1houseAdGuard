@@ -197,6 +197,7 @@
 #-----------------------------
 
 #Host blocking domain - adblock syn
+||ttvnw.net^
 ||amazon-adsystem.com^
 ||mediapack.info^
 ||watchanimeattheoffice.com^
