@@ -197,6 +197,7 @@
 #-----------------------------
 
 #Host blocking domain - adblock syn
+||amazon-adsystem.com^
 ||mediapack.info^
 ||watchanimeattheoffice.com^
 ||bigbeans.solution^
