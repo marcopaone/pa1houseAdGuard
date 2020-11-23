@@ -4,6 +4,7 @@
 #-----------------------------
 
 #Host whitelist domain - adblock syn
+@@||api.epicgames.dev^$important
 @@||fil.email^$important
 @@||u.gg^$important
 @@||wikia.com^$important
