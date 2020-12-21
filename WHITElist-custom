@@ -4,6 +4,7 @@
 #-----------------------------
 
 #Host whitelist domain - adblock syn
+@@||ftp.avg.com^$important
 @@||static.wikia.nocookie.net^$important
 @@||api.epicgames.dev^$important
 @@||fil.email^$important
