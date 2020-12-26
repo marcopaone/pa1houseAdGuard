@@ -1,4 +1,5 @@
 #TOP level domain blocking
+||*.xyz^
 ||*.at^
 ||*.gy^
 ||*.biz^
