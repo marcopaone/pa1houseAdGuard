@@ -9,3 +9,9 @@ samsungcloudcdn.com^
 *.samsungosp.com^
 *.sso.internetat.tv^
 vice.*^
+||wpad.station^
+||*.station^
+*.station^
+api.intelsa.intel.com^
+images.discovery.indazn.com^
+api.gameanalytics.com^
