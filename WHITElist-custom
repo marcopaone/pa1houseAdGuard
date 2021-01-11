@@ -11,17 +11,7 @@
 @@||fil.email^$important
 @@||wikia.com^$important
 @@||fandom.com^$important
-@@||mcafee.com^$important
-@@||*.symantec.com^$important
 @@||any.run^$important
-@@||symantecliveupdate.com^$important
-@@||broadcom.com^$important
-@@||norton.com^$important
-@@||symantec.com^$important
-@@||360totalsecurity.com^$important
-@@||360.com^$important
-@@||nano.com^$important
-@@||360safe.com^$important
 @@||google.*/complete/search?$script
 @@||s2.reutersmedia.net
 @@||s.youtube.com
@@ -30,7 +20,6 @@
 @@||settings-win.data.microsoft.com
 @@||mobile.pipe.aria.microsoft.com
 @@||browser.pipe.aria.microsoft.com
-@@||lenta.ru
 @@||inc.com
 @@||smartsheet.com
 @@||get3.adobe.com
@@ -46,7 +35,7 @@
 @@||bit.ly
 @@||ift.tt
 @@||zonealarm.com
-@@||c.amazon-adsystem.com
+#@@||c.amazon-adsystem.com
 #@@||aax-eu.amazon-adsystem.com
 @@||cdn.reverso.net
 @@||launchdarkly.com
@@ -192,20 +181,17 @@
 @@||xsts.auth.xboxlive.com
 @@||v10.events.data.microsoft.com
 @@||clientconfig.passport.net 
-@@||dblock-tester.com
-@@||www.bing.com^$important
+#@@||www.bing.com^$important
 @@||peoplehub.xboxlive.com^$important
 @@||chat.xboxlive.com^$important
 @@||rta.xboxlive.com^$important
 @@||buff.ly^$important
 @@||heartbeat.dm.origin.com^$important
 @@||spring18.gosredirector.ea.com^$important
-@@||www.bing.com^$important
 @@||peoplehub.xboxlive.com^$important
 @@||chat.xboxlive.com^$important
 @@||rta.xboxlive.com^$important
 @@||smetrics.aem.playstation.com
-@@||jpost.com^
 
 #-----------------------------
 
