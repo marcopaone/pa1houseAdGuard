@@ -4,12 +4,10 @@
 #-----------------------------
 
 #Host whitelist domain - adblock syn
-@@||*.trendmicro.com^$important
 @@||ftp.avg.com^$important
 @@||static.wikia.nocookie.net^$important
 @@||api.epicgames.dev^$important
 @@||fil.email^$important
-@@||u.gg^$important
 @@||wikia.com^$important
 @@||fandom.com^$important
 @@||mcafee.com^$important
@@ -24,11 +22,7 @@
 @@||360.com^$important
 @@||nano.com^$important
 @@||360safe.com^$important
-@@||avcdn.net^$important
-@@||avast.com^$important
-@@||huorong.cn^$important
 @@||google.*/complete/search?$script
-@@||babbano.com
 @@||s2.reutersmedia.net
 @@||s.youtube.com
 @@||app.link
