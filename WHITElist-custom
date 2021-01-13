@@ -9,7 +9,6 @@
 @@||s2.reutersmedia.net
 @@||app.link
 @@||inc.com
-@@||smartsheet.com
 @@||bit.ly
 @@||ow.ly
 @@||tinyurl.com
@@ -24,13 +23,10 @@
 @@||launchdarkly.com
 @@||www.torrent-paradise.ml
 @@||www.rt.com
-@@||ytimg.com
 @@||expressvpn.com
 @@||privateinternetaccess.com
 @@||www.kerish.org
 @@||www.worldometers.info
-
-@@||android.clients.google.com
 @@||buff.ly
 @@||it.altervista.org
 @@||oasjs.kataweb.it #video on lastampa and repubblica
@@ -129,6 +125,7 @@
 @@||google.*/complete/search?$script
 @@||graph.facebook.com
 @@||spclient.wg.spotify.com
+@@||ytimg.com
 
 #Xbox (also used by Microsoft Store games like Minecraft):
 @@||attestation.xboxlive.com
