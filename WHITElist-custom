@@ -4,13 +4,13 @@
 #-----------------------------
 
 #Host whitelist domain - adblock syn
-@@||*.trendmicro.com^$important
+@@||*.trendmicro.com^
 @@||ftp.avg.com^$important
-@@||static.wikia.nocookie.net^$important
-@@||api.epicgames.dev^$important
-@@||fil.email^$important
-@@||wikia.com^$important
-@@||fandom.com^$important
+@@||static.wikia.nocookie.net^
+@@||api.epicgames.dev^
+@@||fil.email
+@@||wikia.com
+@@||fandom.com
 @@||any.run^$important
 @@||google.*/complete/search?$script
 @@||s2.reutersmedia.net
