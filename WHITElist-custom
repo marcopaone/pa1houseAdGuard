@@ -40,20 +40,13 @@
 @@||cdn.reverso.net
 @@||launchdarkly.com
 @@||www.torrent-paradise.ml
-@@||encrypted-tbn3.gstatic.com
-@@||encrypted-tbn2.gstatic.com
-@@||encrypted-tbn1.gstatic.com
-@@||encrypted-tbn0.gstatic.com
 @@||connectivitycheck.gstatic.com
-@@||ssl.gstatic.com
 @@||fonts.gstatic.com
-@@||www.gstatic.com
 @@||android.clients.google.com
 @@||www.rt.com
 @@||ytimg.com
 @@||expressvpn.com
 @@||privateinternetaccess.com
-@@||apis.google.com
 @@||graph.facebook.com
 @@||spclient.wg.spotify.com
 @@||www.kerish.org
@@ -68,7 +61,6 @@
 @@||android.clients.google.com
 @@||googleapis.l.google.com
 @@||www.msftncsi.com
-@@||outlook.office365.com
 @@||products.office.com
 @@||c.s-microsoft.com
 @@||i.s-microsoft.com
@@ -158,7 +150,6 @@
 @@||msftncsi.com
 @@||www.msftncsi.com
 @@||ipv6.msftncsi.com
-@@||tracking.epicgames.com
 @@||attestation.xboxlive.com
 @@||cert.mgt.xboxlive.com
 @@||ctldl.windowsupdate.com
