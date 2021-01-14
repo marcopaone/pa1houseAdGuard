@@ -275,6 +275,7 @@
 ||aax-eu.amazon-adsystem.com^ #ads amazon
 ||sf.symcd.com^
 ||discord.com/api^
+
 #-----------------------------
 
 #Host blocking domain - adblock syn with wildcard
@@ -407,3 +408,22 @@ books-analytics-events.apple.com
 data.alexa.com
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
+
+#-----------------------------
+#Block downloading executable content from insecure HTTP websites
+http://*.exe^
+http://*.msi^
+http://*.bat^
+http://*.dll^
+http://*.hta^
+http://*.jar^
+http://*.msu^
+http://*.pif^
+http://*.ps1^
+http://*.ps2^
+http://*.reg^
+http://*.scr^
+http://*.sys^
+http://*.vbe^
+http://*.vbs^
+http://*.tmp^
