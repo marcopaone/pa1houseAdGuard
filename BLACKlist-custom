@@ -410,6 +410,22 @@ device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 
 #-----------------------------
+#Block DDNS services
+
+adultdns.net^
+servehttp.com^^
+myvnc.com^
+redirectme.net^
+hopto.org^
+zapto.org^
+no-ip.info^
+no-ip.biz^
+no-ip.org^
+sytes.net^
+adultdns.net-samples^
+
+
+#-----------------------------
 #Block downloading executable content from insecure HTTP websites
 http://*.exe^
 http://*.msi^
