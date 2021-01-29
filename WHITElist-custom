@@ -4,6 +4,7 @@
 #-----------------------------
 
 #Host whitelist domain - adblock syn
+@@||*.binance.com
 @@||*.trendmicro.com
 @@||ftp.avg.com
 @@||s2.reutersmedia.net
