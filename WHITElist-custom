@@ -38,6 +38,7 @@
 @@||dns.adguard.com^$important #adguard
 @@||dns-unfiltered.adguard.com^$important #adguard
 @@||dns-family.adguard.com^$important #adguard
+@@||su.ff.avast.com^$important #avast stream update
 
 #-----------------------------
 #Microsoft, origin, fb, google ecc
