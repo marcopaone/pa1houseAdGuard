@@ -39,7 +39,7 @@
 @@||dns-unfiltered.adguard.com^$important #adguard
 @@||dns-family.adguard.com^$important #adguard
 @@||su.ff.avast.com^$important #avast stream update
-@@||webroot.com^
+@@||webroot.com^important
 
 #-----------------------------
 #Microsoft, origin, fb, google ecc
