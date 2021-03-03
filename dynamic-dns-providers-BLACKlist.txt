@@ -1,3 +1,4 @@
+duckdns.org^
 3d-game.com^
 4irc.com^
 b0ne.com^
