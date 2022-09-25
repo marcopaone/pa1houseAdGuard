@@ -40,6 +40,9 @@
 @@||dns-family.adguard.com^$important #adguard
 @@||su.ff.avast.com^$important #avast stream update
 @@||webroot.com^important
+@@||kataweb.it
+@@||repstatic.it
+
 
 #-----------------------------
 #Microsoft, origin, fb, google ecc
