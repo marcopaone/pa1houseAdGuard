@@ -42,7 +42,13 @@
 @@||webroot.com^important
 @@||kataweb.it
 @@||repstatic.it
-
+@@||cdn.optimizely.com
+@@||split.io
+@@||t.ly
+@@||www.bit.ly
+@@||bit.ly
+@@||ow.ly
+@@||tinyurl.com
 
 #-----------------------------
 #Microsoft, origin, fb, google ecc
