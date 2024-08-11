@@ -10,6 +10,16 @@ DNS From To
 @TR
 @BY
 @LV
+@GH
+@BY
+@IN
+@VN
+@TH
+@ID
+@ZA
+@EC
+@EG
+@MX
 
 DNS To From
 
@@ -23,6 +33,17 @@ DNS To From
 #BR
 #IN
 #PK
+#GH
+#BY
+#IN
+#VN
+#TH
+#ID
+#ZA
+#EC
+#EG
+#MX
+
 
 TLDs
 
