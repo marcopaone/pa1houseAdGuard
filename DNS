@@ -9,7 +9,6 @@ DNS From To
 @TH
 @TR
 @BY
-@LV
 @GH
 @IN
 @ZA
@@ -17,8 +16,6 @@ DNS From To
 @EG
 @MX
 @NG
-@UA
-@RO
 @BR
 @PK
 @BD
@@ -48,6 +45,8 @@ DNS From To
 @SD
 @SO
 @YE
+@SA
+@AE
 
 
 
